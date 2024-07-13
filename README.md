@@ -11,7 +11,8 @@ A passionate Web App Developer from India
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ekxhta.github.io/portfolio/](http://ekxhta.github.io/portfolio/)
 * ✉️  You can contact me at [ekshtamishra29@gmail.com](mailto:ekshtamishra29@gmail.com)
-* 🧠  I'm learning javascript and Flutter
+* 🧠  I'm currently actively engaged in learning REACT and MERN technologies.
+* 👩🏽‍💻  Machine Learning enthusiast learning Python
 
 ### Skills
 
