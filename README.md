@@ -4,10 +4,10 @@
 <br><br>
 <center>
 
-Hi ! This is Ekshta Mishra
+<center> Hi ! This is Ekshta Mishra </center>
 =================================
 
-Engineer with a few side quests
+<center> Engineer with a few side quests </center>
 -----------------------------------------
 
 * 🌍  I'm based in India
