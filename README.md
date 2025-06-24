@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="working at computer gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="working at computer gif" />
 </p>
 <br><br>
 <center>
 
 Hi ! This is Ekshta Mishra
-
+=================================
 
 Engineer with a few side quests
 -----------------------------------------
