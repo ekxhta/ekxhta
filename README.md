@@ -5,14 +5,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekshta Mishra
 =====================================================================================================================================
 
-A passionate Web App Developer from India
+Engineer with a few side quests
 -----------------------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ekxhta.github.io/portfolio/](http://ekxhta.github.io/portfolio/)
-* ✉️  You can contact me at [ekshtamishra29@gmail.com](mailto:ekshtamishra29@gmail.com)
-* 🧠  I'm currently actively engaged in learning REACT and MERN technologies.
-* 👩🏽‍💻  Machine Learning enthusiast learning Python
+* ✉️  Reach me at: [ekshtamishra29@gmail.com](mailto:ekshtamishra29@gmail.com)
+* 🧠  Currently exploring React and MERN stack tech.
+* 👩🏽‍💻  Machine Learning enthusiast — recently built a YOLOv8-based Monkey Threat Detection System
+* ⚡  Always excited to learn, build, and solve real-world problems with tech
+
+Beyond all the nerdy bits, I love a good conversation — especially when it’s about ideas.
+Brainstorming, problem-solving, or just geeking out over tech? I’m all ears.
+**Have an idea or something exciting to share? Hit me up!**
+
 
 ### Skills
 
