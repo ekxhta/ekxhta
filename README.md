@@ -6,9 +6,13 @@
   Hi! This is Ekshta Mishra
 </h1>
 
+<br> 
+
 <h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;">
   Engineer with a few side quests
 </h2>
+
+<br> 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ekxhta.github.io/portfolio/](http://ekxhta.github.io/portfolio/)
@@ -16,6 +20,7 @@
 * 🧠  Currently exploring React and MERN stack tech.
 * 👩🏽‍💻  Machine Learning enthusiast — recently built a YOLOv8-based Monkey Threat Detection System
 * ⚡  Always excited to learn, build, and solve real-world problems with tech
+
 
 Beyond all the nerdy bits, I love a good conversation — especially when it’s about ideas.
 Brainstorming, problem-solving, or just geeking out over tech? I’m all ears.
