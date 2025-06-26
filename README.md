@@ -2,10 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="Working at computer GIF" />
 </p>
 
-<h1 align="center">Hi ! This is Ekshta Mishra</h1>
+<p align="center">
+  <img src="https://imgur.com/4gE3MGQ.png" alt="Hi ! This Ekshta Mishra" />
+</p>
 
 <p align="center">
-  <i>Engineer with a few side quests </i>
+  <img src="https://imgur.com/SmTshIs.png" alt="Engineer with a few side quests " />
 </p>
 
 
