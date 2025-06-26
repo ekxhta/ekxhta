@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="Working at computer GIF" />
-</p>
-
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; font-weight: 600;">
   Hi! This is Ekshta Mishra
 </h1>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="Working at computer GIF" />
+</p>
 
 
 
