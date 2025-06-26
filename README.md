@@ -4,12 +4,12 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="Working at computer GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900" alt="Working at computer GIF" />
 </p>
 
 
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;">
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;font-style: italic;">
   Engineer with a few side quests
 </h2>
 
