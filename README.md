@@ -6,7 +6,7 @@
   Hi! This is Ekshta Mishra
 </h1>
 
-<br> 
+
 
 <h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;">
   Engineer with a few side quests
