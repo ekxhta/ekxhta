@@ -2,14 +2,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" alt="Working at computer GIF" />
 </p>
 
-<p align="center">
-  <img src="https://imgur.com/4gE3MGQ.png" alt="Hi ! This Ekshta Mishra" />
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; font-weight: 600;">
+  Hi! This is Ekshta Mishra
 </p>
 
-<p align="center">
-  <img src="https://imgur.com/SmTshIs.png" alt="Engineer with a few side quests " />
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;">
+  Engineer with a few side quests
 </p>
-
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://ekxhta.github.io/portfolio/](http://ekxhta.github.io/portfolio/)
