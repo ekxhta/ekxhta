@@ -71,7 +71,7 @@ Brainstorming, problem-solving, or just geeking out over tech? I’m all ears.
 
 ### Badges
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ekxhta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekxhta&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=ffffff&icon_color=0891b2" alt="Top Languages" height="180"/>
 </div>
