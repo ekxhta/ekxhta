@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 36px; font-weight: 600;">
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600;">
   Hi! This is Ekshta Mishra
 </h1>
 
@@ -9,7 +9,7 @@
 
 
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px; font-weight: 400; color: #888;font-style: italic;">
+<h2 align="center" style="font-family: 'Poppins', sans-serif;font-weight: 400; color: #888;font-style: italic;">
   Engineer with a few side quests
 </h2>
 
